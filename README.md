@@ -6,4 +6,4 @@ There is basic auto edit, but what if user wants several extra editings, it is c
 ```Java
 PhotoEditor editor2 = new SlimFace(new SkinSmooth(new Graininess(new BasicAutoEdit())));
 ```
-
+In this peace of code, we are adding new editings at run time, starting from basic changes. 
